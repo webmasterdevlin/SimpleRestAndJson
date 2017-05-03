@@ -1,0 +1,2 @@
+C:\_gh\SimpleRestAndJson\SimpleRestAndJson\SimpleRestAndJson.UWP\SimpleRestAndJson.UWP.csproj;x86
+C:\_gh\SimpleRestAndJson\SimpleRestAndJson\SimpleRestAndJson\SimpleRestAndJson.csproj;neutral
